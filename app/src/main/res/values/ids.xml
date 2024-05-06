@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="CleanBtn" type="id" />
+    <item name="PlayBtn" type="id" />
+    <item name="FeedBtn" type="id" />
+    <item name="CleanCount" type="id" />
+    <item name="PlayCount" type="id" />
+    <item name="FeedCount" type="id" />
+    <item name="doggo" type="id" />
+</resources>
